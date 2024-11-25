@@ -17,7 +17,7 @@ public static void bottomView(Node root) {
 
     
     for (Map.Entry<Integer, Integer> entry : mp.entrySet()) {
-        System.out.print(entry.getValue() + " ");
+        System.out.print(entry.getValue() + "   ");
     }
     System.out.println();
 }
